@@ -10,8 +10,8 @@ The data for this project is compiled from:
 - Surveys: Analyzing responses to surveys conducted within the tech community.
 
 ## Objectives
-- Identify Top Programming Languages:** Determining which programming languages are most sought after by employers.
-- Highlight In-Demand Database Skills:** Focusing on the database technologies that are crucial for tech professionals.
+- Identify Top Programming Languages: Determining which programming languages are most sought after by employers.
+- Highlight In-Demand Database Skills: Focusing on the database technologies that are crucial for tech professionals.
 - Explore Popular IDEs:** Examining which IDEs are preferred in the industry.
 
 ## Analysis
