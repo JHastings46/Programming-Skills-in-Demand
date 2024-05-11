@@ -1,7 +1,7 @@
-# Emerging Skills Report 2024
+# Emerging Skills Report 2023
 
 ## Project Overview
-This project aims to analyze and report on the top programming skills in demand for 2024. By collecting data from a variety of sources, we aim to identify current trends in the tech industry, focusing on programming languages, database skills, and Integrated Development Environments (IDEs).
+This project aims to analyze and report on the top programming skills in demand for 2023. By collecting data from a variety of sources, we aim to identify current trends in the tech industry, focusing on programming languages, database skills, and Integrated Development Environments (IDEs).
 
 ## Data Collection
 The data for this project is compiled from:
